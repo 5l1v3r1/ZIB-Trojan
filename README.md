@@ -83,9 +83,7 @@ Read files in plain-text off zombie computers. View amount of scanned SSH server
 Commands are ran mutli-threaded and con-currently. This means your bots wont freeze up each time you run a command.<br>
 <h3>Notes</h3>
 The default server won't accept new channels unless the client purchases one.<br>
-This is filled with *some* wrong information, non-commented code, etc. This is because I originally wrote it for myself, and decided to release it for other legal and ethical security researchers to learn from.<br>
+This is filled with *some* wrong information, non-commented code, etc.<br>
 <h3>Contact</h3>
 Email: chris@whitepacket.com<br>
-Jabber: whitepacket@xmpp.is<br>
 Twitter: @WhitePacket<br>
-BTC address: 1JiyTFYsubsRzwj8uCtzxRirnr33wGS5YB<br>
